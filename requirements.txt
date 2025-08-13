@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+xgboost
+lightgbm
+shap
+geopandas
+pycountry
+shapely
